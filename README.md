@@ -38,5 +38,4 @@ WHERE HOUR(transaction_date) NOT BETWEEN 6 AND 22;
 ## Technologies Used
 - SQL (MySQL/PostgreSQL)
 - Git & GitHub for version control
-## Contributing
-Feel free to submit pull requests or report issues.
+
